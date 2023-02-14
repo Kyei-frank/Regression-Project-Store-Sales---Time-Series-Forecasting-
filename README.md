@@ -1,7 +1,7 @@
 # Regression Project (Store Sales -- Time Series Forecasting)
 
 # GOAL:
-The goal of this analysis is to build a Model that predicts the sales for product families sold at Favorita stores located in Ecuador
+The goal of this project is to build a Model that predicts the sales for product families sold at Favorita stores located in Ecuador
 
 # HYPOTHESIS
 
