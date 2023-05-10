@@ -38,8 +38,8 @@ The goal of this project is to build a Model that predicts the sales for product
 * holidays_events.csv: Holidays and Events, with metadata.
 
 # Link to a Deployed App Repository
-[GitHub Repo for App](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
-[Deployed App on HuggingFace Spaces](https://huggingface.co/spaces/FKBaffour/Streamlit_App_for_Sales_Forecasting))
+* [GitHub Repo for ML App](https://github.com/Kyei-frank/Streamlit-App-for-ML-Model-Project)
+* [Deployed App on HuggingFace Spaces](https://huggingface.co/spaces/FKBaffour/Streamlit_App_for_Sales_Forecasting))
 
 # Technologies Used:
 * Python
@@ -50,5 +50,5 @@ The goal of this project is to build a Model that predicts the sales for product
 * Scikit Learn
 
 ## Author:
-[FK Baffour (LinkedIn)](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
-[FK Baffour (Profile)](https://bold.pro/my/fkbaffour)
+* [FK Baffour (LinkedIn)](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
+* [FK Baffour (Profile)](https://bold.pro/my/fkbaffour)
