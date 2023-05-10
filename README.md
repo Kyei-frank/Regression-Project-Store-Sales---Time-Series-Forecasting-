@@ -37,6 +37,10 @@ The goal of this project is to build a Model that predicts the sales for product
 * oil.csv: Daily oil price which includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economical health is highly vulnerable to shocks in oil prices).
 * holidays_events.csv: Holidays and Events, with metadata.
 
+# Link to a Deployed App Repository
+[GitHub Repo for App](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
+[Deployed App on HuggingFace Spaces](https://huggingface.co/spaces/FKBaffour/Streamlit_App_for_Sales_Forecasting))
+
 # Technologies Used:
 * Python
 * Pandas
@@ -45,4 +49,6 @@ The goal of this project is to build a Model that predicts the sales for product
 * Seaborn
 * Scikit Learn
 
-# Author: FK Baffour
+## Author:
+[FK Baffour (LinkedIn)](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
+[FK Baffour (Profile)](https://bold.pro/my/fkbaffour)
